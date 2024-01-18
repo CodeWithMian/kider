@@ -1,0 +1,268 @@
+@media (max-width:1200px) {
+    .nave-manue{
+        width: 50%;
+    margin: 20px 0px 20px 20px;
+    }
+    .main-div{
+        max-width: 1350px;
+        background-color: #fff;
+        margin: auto;
+    }
+    .cursal,.overley{
+        width: 1100px;
+    }
+    .overley-cont h1{
+        font-size: 65px;
+    }
+    .facility-body{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        padding:10px 50px;
+    }
+    .class-body{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        margin: 27px;
+        
+    }
+}
+@media (max-width:1350px) {
+    .facility-body{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        padding:10px 50px;
+    }
+    
+}
+@media (max-width:1030px) {
+    .about{
+        display: grid;
+        grid-template-columns:1fr ;
+    }
+    
+}
+@media (max-width:937px) {
+    .te-body{
+        display: grid; grid-template-columns: 1fr;background-color: #FFF5F3;
+    } 
+    .contact-body{
+        display: grid; 
+        grid-template-columns: 1fr;
+        background-color: #FFF5F3;
+    } 
+    .team-body{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        padding: 50px;
+    }
+    .footer-body{
+        background-color: #103741;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+    
+}
+@media (max-width:915px) {
+    .nave-manue{
+        width: 60%;
+    margin: 8px 0px 0px 0px;
+    }
+    .client-body{
+        display: grid;
+        grid-template-columns: 1fr ;
+        padding: 70px 80px 50px 100px;
+
+    }
+    .facility-body{
+        display: grid;
+        grid-template-columns: 2fr 2fr;
+        padding:10px 50px;
+    }
+    
+    .nave-manue ul li a{
+        font-size: 14px;
+        margin: 0px 10px;
+    }
+    .logo a h1 , .logo a{
+        font-size: 25px;
+    }
+    .btn-join span{
+        font-size: 14px;
+        padding: 5px 10px;
+        border-radius: 20px;
+        font-weight: 500;
+    }
+    .btn-join{
+        margin-right: 20px;
+    margin-top: 5px;
+    }
+    .btn-join span i{
+       font-size: 14px;
+       margin-left: 5px;
+    }
+    .cursal,.overley{
+        width: 800px;
+        background-size: cover;
+    }
+    .overley-cont{
+        width: 500px;
+    }
+    .overley-cont h1{
+        font-size: 40px;
+    }
+    .overley-cont button{
+        padding: 13px 25px;
+    }
+    
+}
+@media (max-width:780px) {
+    .class-body{
+        display: grid;
+        grid-template-columns: 1fr;
+        margin: 27px;
+        
+    }
+}
+@media (max-width:682px) {
+    .facility-body,.bears,.facility-text{
+        margin: auto;
+        
+    }
+    
+.footer-body{
+    background-color: #103741;
+    display: grid;
+    grid-template-columns: 1fr;
+}
+    .team-body{
+        display: grid;
+        grid-template-columns: 1fr;
+        padding: 50px;
+    }
+    .p{
+        color: #74787C;
+        line-height: 1.5;
+        text-align: center;
+        margin: auto;
+         width: 400px;
+        padding: 10px 0px 6px 0px;
+    }
+    .left-side h1{
+        font-family: 'Lobster Two', cursive;
+        font-size: 30px;
+        padding-bottom: 7px;
+        width: 400px;
+    }
+    .left-side p{
+        color: #74787C;
+        line-height: 1.5;
+        width: 400px;
+        padding: 10px 0px 6px 0px;
+    }
+    .left-side button{
+        background-color: #FE5D37;
+        padding: 10px 30px;
+        cursor: pointer;
+        color: #fff;
+        border: none;
+        font-size: 16px;
+        font-weight: 500;
+        border-radius: 30px;
+        
+    }
+    .btn img{
+        margin-left: 100px;
+            width: 45px;
+            border-radius: 50%;
+        }
+    
+}
+@media (max-width:682px) {
+    .nave-manue{
+        width: 60%;
+        margin: 0;
+    }
+    .facility-body{
+        display: grid;
+        grid-template-columns: 1fr;
+        padding:10px 40px;
+        margin-left: 160px;
+        }
+        
+    .nave-manue ul li a{
+        font-size: 12px;
+        margin:0;
+    }
+    .logo a h1 , .logo a{
+        font-size: 15px;
+        padding:0;
+    }
+    .btn-join span{
+        font-size: 12px;
+        padding: 2px 2px;
+        border-radius: 20px;
+        font-weight: 500;
+    }
+    .btn-join span i{
+        font-size: 12px;
+        margin-left: 4px;
+    }
+    .btn-join{
+        margin-right: 10px;
+    margin-top: 0px;
+    }
+    .cursal,.overley{
+        width: 641px;
+        background-size: cover;
+    }
+    .overley-cont{
+        width: 400px;
+    }
+    .overley-cont h1{
+        font-size: 30px;
+    }
+    .overley-cont button{
+        padding: 10px 20px;
+        font-size: 12px;
+    }
+    .facility-body{
+        display: grid;
+        grid-template-columns: 1fr;
+        padding:10px 40px;
+    
+        }
+        .fac-head{
+            width: 400px;
+            
+            padding: 40px 0px;
+        }
+        .facility-body{
+            margin: auto;
+        }
+}@media(max-width:411px){
+    .facility-body{
+        display: grid;
+        grid-template-columns: 1fr;
+        padding:10px 40px;
+    
+        }
+        .cursal,.overley{
+            width: 180px;
+            background-size: cover;
+        }
+        .fac-head{
+            width: 300px;
+            margin: auto;
+            padding: 40px 0px;
+        }
+        .facility-body{
+            margin: auto;
+        }
+
+}
+@media (max-width:648px) {
+    .cursal,.overley{
+        width: 550px;
+        background-size: cover;
+    }
+}
